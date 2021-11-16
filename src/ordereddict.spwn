@@ -162,7 +162,7 @@ impl @ordereddict {
 		return self._dict == other._dict
 	},
 
-	_has_: (
+	has: (
 		self,
 		key: @number|@string
 	) {
