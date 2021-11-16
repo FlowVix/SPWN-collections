@@ -3,5 +3,6 @@
 
 name: spwn-collections
 version: 1.0.0
-folders: src
+folders:
+  - src
 
